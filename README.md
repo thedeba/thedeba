@@ -2,19 +2,19 @@
 
 
 <div id="header" align="center">
-  <img src="https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/368754814_3606976516293180_7626316014215814490_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGqCatchWUo9erHPiln36W_fas4DuG0aH99qzgO4bRof5OZaf1T1v8sfiSCGPoaasJe0y0HOwtVZ8mM0uGJbT58&_nc_ohc=0ZipWQSnu18AX-veUdQ&_nc_ht=scontent.fdac135-1.fna&oh=00_AfAL96-qBYraxb6GFnK2W67gc0Bo6Hye4C5g_V2-wpggUw&oe=64FEB003" width="600"/>
+  <img src="[https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/368754814_3606976516293180_7626316014215814490_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGqCatchWUo9erHPiln36W_fas4DuG0aH99qzgO4bRof5OZaf1T1v8sfiSCGPoaasJe0y0HOwtVZ8mM0uGJbT58&_nc_ohc=0ZipWQSnu18AX-veUdQ&_nc_ht=scontent.fdac135-1.fna&oh=00_AfAL96-qBYraxb6GFnK2W67gc0Bo6Hye4C5g_V2-wpggUw&oe=64FEB003](https://avatars.githubusercontent.com/u/87811029?s=400&u=2f9514d6fc7068ba024622d713613bebd84004e5&v=4)](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/273711160_3186054688385367_964121641495565056_n.jpg?stp=dst-jpg_s552x414&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGGDeRLN7ganqfATSYjCKeDXsrzWmN2RfZeyvNaY3ZF9pho4muQKP8pE6_qnhq1wwksS3ZuBvmcEWt3eHO1g6C0&_nc_ohc=FU_u_ODMP98AX8jQbR2&_nc_ht=scontent.fdac5-1.fna&oh=00_AfCMj7IAEJoOMIv3RGhCCZn552L8IaJ0hTE0M_WjgUm-bg&oe=6545DD6E)" width="600"/>
   <br>
   Debashish
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/thenameisdeba">
+  <a href="https://linkedin.com/in/thedeba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://facebook.com/thenameisdeba">
+  <a href="https://facebook.com/thedebaroy">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://twitter.com/thenameisdeba">
+  <a href="https://twitter.com/thedeba">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
