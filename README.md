@@ -4,14 +4,14 @@
   <img src="https://avatars.githubusercontent.com/u/87811029?s=400&v=4" width="600"/>
   <br>
   <h1>Debashish Roy</h1>
-  <h3>AI Engineer | LLM Researcher | Full Stack Developer | Networking & ISP Systems | Bangladesh</h3>
+  <h3>AI Engineer | AI & LLM Researcher | Full Stack Developer | Networking & ISP Systems | Bangladesh</h3>
 </div>
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/imdebashishroy">
     <img src="https://img.shields.io/badge/LinkedIn-Debashish_Roy-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Debashish Roy LinkedIn"/>
   </a>
-  <a href="https://twitter.com/thedeba">
+  <a href="https://twitter.com/imdebashishroy">
     <img src="https://img.shields.io/badge/Twitter-thedeba-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Debashish Roy Twitter"/>
   </a>
 </div>
