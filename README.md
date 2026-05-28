@@ -6,7 +6,7 @@
 
 ### AI Engineer • LLM Researcher • Full Stack Developer • Networking & ISP Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+from+Bangladesh;LLM+%26+NLP+Researcher;Full+Stack+Developer;Networking+%26+ISP+Infrastructure+Specialist;Building+Scalable+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+%26+NLP+Researcher;Full+Stack+Developer;Networking+%26+ISP+Infrastructure+Specialist;Building+Scalable+Intelligent+Systems" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me – Debashish Roy
 
-I am **Debashish Roy**, a Computer Science and Engineering graduate from Bangladesh specializing in:
+I am **Debashish Roy**, a Computer Science and Engineering graduate specializing in:
 
 - Artificial Intelligence (AI)
 - Large Language Models (LLMs)
