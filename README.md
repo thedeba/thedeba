@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Neon Banner -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/master/.github/header-wave.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/thedeba/Local-Drive/main/hacking.gif" alt="Banner" width="100%"/>
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=thedeba&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -82,34 +82,23 @@ My mission: Build scalable, intelligent systems that make a real impact.
   <tr>
     <td width="50%">
 
-```python
-current_projects = {
+<pre><code>📁 Current Projects:
     "🧠": "Conversational AI from Scratch",
     "🌐": "Hyperlocal Social Network",
     "📡": "ISP Infrastructure Optimization",
-    "💳": "Digital Banking System"
-}
+    "💳": "Digital Banking System"</code></pre>
 
-for emoji, project in current_projects.items():
-    print(f"{emoji} {project}")
-```
 
-    </td>
-    <td width="50%">
-
-```bash
-🔬 Researching:
+<pre><code>🔬 Researching:
    • LLM Fine-tuning
    • Neural Architecture Search
-   • Multi-modal AI Systems
+   • Multi-modal AI Systems</code></pre>
 
-🛠 Building:
+<pre><code>🛠 Building:
    • Scalable AI Pipelines
    • Real-time Networking Solutions
-   • Next-gen Web Applications
-```
+   • Next-gen Web Applications</code></pre>
 
-    </td>
   </tr>
 </table>
 
@@ -189,18 +178,8 @@ Building a complete AI system from the ground up:
 - **Text-to-Speech & Speech-to-Text**
 - **Multi-turn Conversations**
 
-<details>
-<summary>🔧 Tech Stack</summary>
-
-```yaml
-Framework: Custom NLU Pipeline
-ML: PyTorch, Transformers
-NLP: spaCy, NLTK
-Speech: Whisper, TTS Models
-Deployment: FastAPI, Docker
-```
-
-</details>
+<br/>
+<b>🔧 Tech Stack:</b> PyTorch, Transformers, spaCy, NLTK, Whisper, FastAPI, Docker
 
     </td>
     <td width="50%">
@@ -215,18 +194,8 @@ Real-time geo-based community platform:
 - **Real-time Messaging**
 - **Location-based Services**
 
-<details>
-<summary>🔧 Tech Stack</summary>
-
-```yaml
-Frontend: React, Next.js
-Backend: Node.js, WebSocket
-Database: PostgreSQL, Redis
-Maps: Google Maps API
-Real-time: Socket.io
-```
-
-</details>
+<br/>
+<b>🔧 Tech Stack:</b> React, Next.js, Node.js, WebSocket, PostgreSQL, Redis, Socket.io
 
     </td>
   </tr>
@@ -243,18 +212,8 @@ Enterprise-grade network solutions:
 - **Secure Network Automation**
 - **Load Balancing & Failover**
 
-<details>
-<summary>🔧 Tech Stack</summary>
-
-```yaml
-Hardware: MikroTik, Starlink
-Automation: Python, Ansible
-Monitoring: Grafana, Prometheus
-Security: Firewall, VPN
-Protocols: BGP, OSPF, MPLS
-```
-
-</details>
+<br/>
+<b>🔧 Tech Stack:</b> MikroTik, Starlink, Python, Ansible, Grafana, Prometheus
 
     </td>
     <td width="50%">
@@ -269,18 +228,8 @@ Secure fintech web application:
 - **Secure Authentication**
 - **Compliance & Audit Trails**
 
-<details>
-<summary>🔧 Tech Stack</summary>
-
-```yaml
-Frontend: React, TypeScript
-Backend: Spring Boot, Java
-Database: PostgreSQL, Redis
-Security: OAuth2, JWT
-DevOps: Docker, Kubernetes
-```
-
-</details>
+<br/>
+<b>🔧 Tech Stack:</b> React, TypeScript, Spring Boot, Java, PostgreSQL, Redis, Docker, Kubernetes
 
     </td>
   </tr>
@@ -534,7 +483,7 @@ Research_Areas:
 <div align="center">
 
   <!-- Footer Banner -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/master/.github/footer-wave.png" alt="Footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/thedeba/Local-Drive/main/quotes.png" alt="Footer" width="100%"/>
 
   <!-- Animated Footer -->
   <p>
@@ -548,23 +497,16 @@ Research_Areas:
 
   <p>
     <sub>
-      <b>⚡ Powered by Intelligence | Crafted with Passion ⚡</b>
+      <b>⚡ Powered by Intelligence ⚡</b>
     </sub>
   </p>
 
   <p>
     <sub>
-      <i>© 2024 Debashish Roy | Built with ❤️ and ☕</i>
+      <i>© 2024 Debashish Roy</i>
     </sub>
   </p>
 
 </div>
 
 ---
-
-<div align="center">
-
-  <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/thedeba/count.svg" alt="Visitor Count"/>
-
-</div>
