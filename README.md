@@ -4,7 +4,7 @@
 
 # Debashish Roy
 
-### AI Engineer • LLM Researcher • Full Stack Developer • Networking & ISP Systems • Bangladesh
+### AI Engineer • LLM Researcher • Full Stack Developer • Networking & ISP Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+from+Bangladesh;LLM+%26+NLP+Researcher;Full+Stack+Developer;Networking+%26+ISP+Infrastructure+Specialist;Building+Scalable+Intelligent+Systems" />
 
@@ -95,7 +95,7 @@ MikroTik • ISP Systems • Bandwidth Management
 
 If you are searching for:
 
-Debashish Roy AI Engineer Bangladesh  
+Debashish Roy AI Engineer
 Debashish Roy LLM Researcher  
 Debashish Roy Full Stack Developer  
 Debashish Roy Networking Specialist  
@@ -104,7 +104,6 @@ You are in the right place.
 
 🔗 LinkedIn: https://linkedin.com/in/imdebashishroy  
 🔗 GitHub: https://github.com/thedeba  
-📍 Location: Bangladesh
 
 ---
 
