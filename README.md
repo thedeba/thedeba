@@ -181,9 +181,6 @@ Building a complete AI system from the ground up:
 <br/>
 <b>🔧 Tech Stack:</b> PyTorch, Transformers, spaCy, NLTK, Whisper, FastAPI, Docker
 
-    </td>
-    <td width="50%">
-
 ### 🌐 Hyperlocal Social Network
 
 Real-time geo-based community platform:
@@ -197,7 +194,6 @@ Real-time geo-based community platform:
 <br/>
 <b>🔧 Tech Stack:</b> React, Next.js, Node.js, WebSocket, PostgreSQL, Redis, Socket.io
 
-    </td>
   </tr>
   <tr>
     <td width="50%">
@@ -215,8 +211,6 @@ Enterprise-grade network solutions:
 <br/>
 <b>🔧 Tech Stack:</b> MikroTik, Starlink, Python, Ansible, Grafana, Prometheus
 
-    </td>
-    <td width="50%">
 
 ### 💳 iBank – Digital Banking System
 
@@ -231,7 +225,6 @@ Secure fintech web application:
 <br/>
 <b>🔧 Tech Stack:</b> React, TypeScript, Spring Boot, Java, PostgreSQL, Redis, Docker, Kubernetes
 
-    </td>
   </tr>
 </table>
 
@@ -245,32 +238,18 @@ Secure fintech web application:
 
 </div>
 
-<div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thedeba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="GitHub Stats" width="49%"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedeba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Top Languages" width="49%"/>
-
-</div>
 
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=thedeba&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00FFFF" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=thedeba&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedeba&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FF6B6B" alt="Contribution Graph" width="49%"/>
+  <img src="https://ghchart.rshah.org/thedeba" alt="GitHub Contribution Graph"/>
 
 </div>
 
-<div align="center">
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=thedeba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -431,11 +410,11 @@ Research_Areas:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="mailto:contact@debashishroy.com" target="_blank">
+  <a href="mailto:thedeba@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://twitter.com/thedeba" target="_blank">
+  <a href="https://twitter.com/imdebashishroy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
